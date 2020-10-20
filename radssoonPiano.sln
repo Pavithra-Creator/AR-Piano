@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radssoonPiano", "Assembly-CSharp.csproj", "{8F5BCBA2-F442-F763-624F-F3929030FB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radssoonPiano", "Assembly-CSharp-Editor.csproj", "{87442232-E7C6-2D74-203D-90D2D1F712DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5BCBA2-F442-F763-624F-F3929030FB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5BCBA2-F442-F763-624F-F3929030FB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5BCBA2-F442-F763-624F-F3929030FB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5BCBA2-F442-F763-624F-F3929030FB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87442232-E7C6-2D74-203D-90D2D1F712DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87442232-E7C6-2D74-203D-90D2D1F712DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87442232-E7C6-2D74-203D-90D2D1F712DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87442232-E7C6-2D74-203D-90D2D1F712DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
